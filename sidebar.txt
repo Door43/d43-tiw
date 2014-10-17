@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tiw:home|Door43 (tiw)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tiw|d43-tiw repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tiw/archive/master.zip|d43-tiw.zip]]
+
+**Recent Changes**
+{{changes>ns = tiw}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tiw|Ethnologue data]]
+
